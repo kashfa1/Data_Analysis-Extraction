@@ -1,5 +1,5 @@
-# Data_Analysis-Extractio
-Project Overview
+# Data_Analysis-Extraction
+
 This project extracts text from a list of URLs, performs Natural Language Processing (NLP) analysis on each article, and outputs various sentiment and readability metrics, organized in a structured Excel file.
 
 Technologies Used
